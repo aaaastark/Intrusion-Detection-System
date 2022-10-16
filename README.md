@@ -39,9 +39,9 @@
 - numpy
 - pandas
 
-## Paper vs Proposed Results: *Attack Detection, Parameter Optimization and Performance Analysis in Enterprise Networks (ML Networks) for Intrusion Detection System IDS.*
+# Paper vs Proposed Results: *Attack Detection, Parameter Optimization and Performance Analysis in Enterprise Networks (ML Networks) for Intrusion Detection System IDS.*
 
-#### Binary Class Classification (Proposed Results): LightGBM (Gradient Boosting)
+## Binary Class Classification (Proposed Results): LightGBM (Gradient Boosting)
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040655-4750ed79-980a-44f1-9659-1880ccab31d9.png"> 
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040699-5cd491ab-3f7d-42f9-bada-6b4cb00007ae.png"> 
@@ -51,7 +51,7 @@
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/196041425-b1c78647-2bb0-4f3e-9d53-38fa7073b82b.png"> 
 </p>
 
-#### Binary Class Classification (Proposed Results): XGBoost (Gradient Boosting)
+## Binary Class Classification (Proposed Results): XGBoost (Gradient Boosting)
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040876-99a24d46-dc02-4eee-9c2e-3333902cdf49.png"> 
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040893-5072cacb-70d6-474a-b962-daa509256112.png"> 
@@ -61,7 +61,7 @@
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/196041531-35096db9-b568-4581-ae63-035a196b0620.png"> 
 </p>
 
-#### Multi Class Classification (Proposed Results): LightGBM (Gradient Boosting)
+## Multi Class Classification (Proposed Results): LightGBM (Gradient Boosting)
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041053-ddebc081-c334-4c85-888f-60c40fda5fc0.png"> 
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041094-75eb8973-9756-42ce-89fe-fc42bf675274.png">
@@ -70,7 +70,7 @@
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/196041582-d99fbae7-7986-45e7-bd73-f9ec0fde737d.png"> 
 </p>
 
-#### Multi Class Classification (Proposed Results): XGBoost (Gradient Boosting)
+## Multi Class Classification (Proposed Results): XGBoost (Gradient Boosting)
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041187-a8a45634-202a-445c-b3dd-dc31eabffd60.png"> 
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041227-20475167-e6c0-4461-814e-0fe6168cde10.png">
