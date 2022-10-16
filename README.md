@@ -16,11 +16,8 @@
 ##### In CSE-CIC-IDS2018 dataset, we use the notion of profiles to generate datasets in a systematic manner, which will contain detailed descriptions of intrusions and abstract distribution models for applications, protocols, or lower level network entities. 
 
 <p align="center" width="100%">
-    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196039859-28c96e2b-e5a2-4208-9959-67894ad42abf.png"> 
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/196039859-28c96e2b-e5a2-4208-9959-67894ad42abf.png"> 
 </p>
-
-
-
 
 #### Workflow that is used in this Project
 - Data Processing (ETL, Wrangling)
