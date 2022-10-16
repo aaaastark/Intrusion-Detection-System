@@ -41,6 +41,17 @@
 
 ## Paper vs Proposed Results: *Attack Detection, Parameter Optimization and Performance Analysis in Enterprise Networks (ML Networks) for Intrusion Detection System IDS.*
 
+#### Binary Class Classification (Proposed Results): LightGBM (Gradient Boosting)
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040655-4750ed79-980a-44f1-9659-1880ccab31d9.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040699-5cd491ab-3f7d-42f9-bada-6b4cb00007ae.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040766-084efabc-db16-4780-a6c4-45f9b927885a.png"> 
+</p>
 
-
+#### Binary Class Classification (Proposed Results): XGBoost (Gradient Boosting)
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040876-99a24d46-dc02-4eee-9c2e-3333902cdf49.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040893-5072cacb-70d6-474a-b962-daa509256112.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040905-cca94fbc-5a60-4db1-a5c0-fecbe895a20b.png"> 
+</p>
 
