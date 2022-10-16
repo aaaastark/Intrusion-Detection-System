@@ -1,5 +1,7 @@
 # Attack Detection, Parameter Optimization and Performance Analysis in Enterprise Networks (ML Networks) for Intrusion Detection System IDS.
 
+### Intrusion Detection System (IDS) as one of the most trusted layers of security for an organization to defend against all sorts of cyber attacks is ubiquitous. In the proposed thesis, we present an experimental analysis to empirically find the optimal parameter settings of 4 classification techniques from 2 machine learning families. To investigate the studied algorithms,  we choose 2 widely used IDS datasets (CIC-IDS2017, CSE-CIC-IDS2018) that resemble real-world network traffic for both benign and malicious activities. CatBoost and LightGBM algorithms work well for both binary classification and multiclass classification of malicious traffic into several attack groups. We conduct experiments on binary classification, i.e., given an IDS log, we predict whether the log is either benign (Normal) or malicious (Attacks), on such datasets. Moreover, we take a step further to analyze such algorithms’ performances on multiclass classification; for example, we aim to detect the type of attack from each dataset. Such as DoS/DDoS, PortScan, BruteForce, WebAttack, Bot and Infiltration.
+
 
 #### Research Paper: Attack Detection in Enterprise Networks by Machine Learning Methods
 - Website Link for Paper: [Attack Detection in Enterprise Networks by Machine Learning Methods](https://ieeexplore.ieee.org/document/8867696)
