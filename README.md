@@ -11,6 +11,13 @@
 - Website Link for Dataset: [Intrusion Detection Evaluation Dataset (CIC-IDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)
 ##### CICIDS2017 dataset contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). It also includes [the results of the network traffic analysis](https://github.com/ahlashkari/CICFlowMeter) using CICFlowMeter with labeled flows based on the time stamp, source, and destination IPs, source and destination ports, protocols and attack (CSV files).
 
+#### Loading the dataset (Canadian Institute for Cybersecurity) Communications Security Establishment (CSE) & the Canadian Institute for Cybersecurity (CIC) *CSE-CIC-IDS2018 on AWS*
+- Website Link for Dataset: [Communications Security Establishment (CSE) & the Canadian Institute for Cybersecurity (CIC) *CSE-CIC-IDS2018 on AWS*](https://www.unb.ca/cic/datasets/ids-2018.html)
+##### In CSE-CIC-IDS2018 dataset, we use the notion of profiles to generate datasets in a systematic manner, which will contain detailed descriptions of intrusions and abstract distribution models for applications, protocols, or lower level network entities. 
+
+- ![image](https://user-images.githubusercontent.com/74346775/196039859-28c96e2b-e5a2-4208-9959-67894ad42abf.png)
+
+
 #### Workflow that is used in this Project
 - Data Processing (ETL, Wrangling)
 - Data Normalization
@@ -32,5 +39,7 @@
 - pandas
 
 ## Paper vs Proposed Results: *Attack Detection, Parameter Optimization and Performance Analysis in Enterprise Networks (ML Networks) for Intrusion Detection System IDS.*
+
+
 
 
