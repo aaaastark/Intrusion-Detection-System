@@ -55,3 +55,14 @@
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040905-cca94fbc-5a60-4db1-a5c0-fecbe895a20b.png"> 
 </p>
 
+#### Multi Class Classification (Proposed Results): LightGBM (Gradient Boosting)
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041053-ddebc081-c334-4c85-888f-60c40fda5fc0.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041094-75eb8973-9756-42ce-89fe-fc42bf675274.png">
+</p>
+
+#### Multi Class Classification (Proposed Results): XGBoost (Gradient Boosting)
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041187-a8a45634-202a-445c-b3dd-dc31eabffd60.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041227-20475167-e6c0-4461-814e-0fe6168cde10.png">
+</p>
