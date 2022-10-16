@@ -25,7 +25,7 @@
 - Binary Class Classification
 - Multi Class Classification
 - Feature Extraction (BC and MC)
-- LightGBM and XGBoost (Gradient Boosting)
+- LightGBM and CatBoost (Gradient Boosting)
 - Visualization (Classification Report and Ploat Confusion Matrix)
 - Accuracy, Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, and R2 Score
 
@@ -51,7 +51,7 @@
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/196041425-b1c78647-2bb0-4f3e-9d53-38fa7073b82b.png"> 
 </p>
 
-## Binary Class Classification (Proposed Results): XGBoost (Gradient Boosting)
+## Binary Class Classification (Proposed Results): CatBoost (Gradient Boosting)
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040876-99a24d46-dc02-4eee-9c2e-3333902cdf49.png"> 
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196040893-5072cacb-70d6-474a-b962-daa509256112.png"> 
@@ -70,7 +70,7 @@
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/196041582-d99fbae7-7986-45e7-bd73-f9ec0fde737d.png"> 
 </p>
 
-## Multi Class Classification (Proposed Results): XGBoost (Gradient Boosting)
+## Multi Class Classification (Proposed Results): CatBoost (Gradient Boosting)
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041187-a8a45634-202a-445c-b3dd-dc31eabffd60.png"> 
     <img width="33%" src="https://user-images.githubusercontent.com/74346775/196041227-20475167-e6c0-4461-814e-0fe6168cde10.png">
